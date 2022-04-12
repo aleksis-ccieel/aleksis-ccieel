@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aleksis!!
+- 👀 I’m interested in artificial intelligence and cybersecuritY.
+- 🌱 I’m currently learning python
+- 📫 How to reach me; aleksis.cielav@gmail.com
